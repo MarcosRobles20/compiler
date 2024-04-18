@@ -1,0 +1,16 @@
+main(){
+new int edad, ok;
+new string nombre;
+new float promedio;
+ok = 9999999;
+edad = 9999999;
+promedio = 1000.1;
+nombre = "Markong";
+while(edad == ok)
+{
+	if(edad!=ok){
+            edad = ok;
+		print(edad);
+	}
+   }
+}
